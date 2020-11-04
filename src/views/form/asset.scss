@@ -1,0 +1,65 @@
+.why_select{
+  width: 99.6%;
+  outline:none !important;
+  border: none !important;
+}
+.el-select-dropdown{
+  box-shadow: none;
+  border-top: 1px solid #EBEEF5;
+  border-bottom: 1px solid #EBEEF5;
+}
+.top_option{
+  padding-left: 0.3%;
+}
+.table_div{
+  width: 100%;
+  overflow: hidden;
+  margin-top:30px;
+}
+.go_student{
+  cursor: pointer;
+  color: rgb(42, 42, 253);
+}
+/*
+.el-dialog{
+  width: 540px !important;
+  padding: 0px 24px;
+  padding-right:50px;
+}
+*/
+
+.optionclass{
+  padding: 5px;
+  .el-input{
+    width: 80%;
+  }
+}
+.el-input--suffix .el-input__inner{
+  padding-right: 0px;
+}
+.el-form--inline .el-form-item{
+  margin-right: 2px;
+}
+.el-table--scrollable-x .el-table__body-wrapper{
+  width: 130%;
+}
+.el-dialog__body{
+  display: flex;
+  line-height: auto;
+}
+.allstutab{
+  width: 50% !important;
+  height: 300px;
+  box-shadow: 0px 0px 26px -10px grey;
+}
+.allp{
+  z-index: 1;
+  margin-top: 32%;
+  margin-left: 2%;
+}
+.el-table__header{
+  border-bottom: 1px solid rgb(240, 236, 236);
+}
+.el-table__row{
+  cursor: pointer;
+}
